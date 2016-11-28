@@ -1,8 +1,11 @@
 #include <iostream>
+#include <string>
 
-int main(int argc, char *argv[])
+using namespace std;
+
+int main()
 {
 
-    cout << "eyyy github we in here"
+    cout << "eyyy github we in here" << endl;
 
 }
